@@ -1,4 +1,4 @@
-# Eletric Vechiles (EV) Customer Clustering
+# Eletric Vehicles (EV) Customer Clustering
 
 # Context
 In a data-rich environment such as a transportation service involving motorcycle rentals or tracking, understanding user behavior is essential for improving operational strategies, optimizing service allocation, and enhancing customer satisfaction.
