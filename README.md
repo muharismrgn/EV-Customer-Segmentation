@@ -31,12 +31,11 @@ We aim to create data-driven user segments and analyze their behavioral profiles
         - Monetary: Total trip duration or value-based proxy.
 
 2. Exploratory Data Analysis (EDA) and Dashboard Reporting
-Before modeling, we conducted comprehensive EDA to understand distributions, patterns, and relationships across datasets. We built an interactive dashboard using Looker Studio, which visualizes:
-- Rider distribution and frequency
-- Trip intensity by location and time
-- Behavioral trends across users
-
-[Here for Dashboard and Report Link](https://lookerstudio.google.com/s/tOgdouyA5Ks)
+    Before modeling, we conducted comprehensive EDA to understand distributions, patterns, and relationships across datasets. We built an interactive dashboard using Looker Studio, which visualizes:
+    - Rider distribution and frequency
+    - Trip intensity by location and time
+    - Behavioral trends across users
+    [Here for Dashboard and Report Link](https://lookerstudio.google.com/s/tOgdouyA5Ks)
 
 3. Segmentation Modeling
     - Scale features using StandardScaler.
